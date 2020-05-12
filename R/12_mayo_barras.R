@@ -38,4 +38,3 @@ ggplot(data = datos, mapping = aes(x = region, y = n,  fill = tiene_internet)) +
         legend.margin = margin(l = 16, t = 10),
         plot.title = element_text(family = "Lato Black", size = 18))
 
-ggsave(here("plots/semana_1.png"),width = 10, height = 5, dpi = 300)
