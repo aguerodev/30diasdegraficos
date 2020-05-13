@@ -59,3 +59,9 @@ _#30díasdegráficos_ es un espacio libre de acoso y hostigamiento, independient
 ### Día 1: Gráfico de barras
 
 ![](https://raw.githubusercontent.com/aguerodev/30diasdegraficos/master/plots/dia_1_barras.png)
+
+***
+
+### Días 2: Gráfico de barras
+
+![](https://raw.githubusercontent.com/aguerodev/30diasdegraficos/master/plots/dia_2_lineas.png)
