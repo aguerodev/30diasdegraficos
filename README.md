@@ -53,3 +53,9 @@ Esta es la propuesta de gráficos para crear en los próximos 30 días:
 
 ### Código de conducta
 _#30díasdegráficos_ es un espacio libre de acoso y hostigamiento, independiente del sexo, identidad, género, edad, orientación sexual, discapacidad, apariencia física, tamaño corporal, etnia, religión (o la falta de ella), ideología, nacionalidad, variante lingüística u opciones tecnológicas. No se tolerará el acoso ni el hostigamiento en ninguna de sus formas. Quienes incurran en este tipo de conductas serán marginados de la comunidad. El lenguaje sexual y las imágenes de ese tipo no son apropiados en ningún espacio de este proyecto.
+
+***
+
+### Día 1: Gráfico de barras
+
+![](https://raw.githubusercontent.com/aguerodev/30diasdegraficos/master/plots/dia_1_barras.png)
